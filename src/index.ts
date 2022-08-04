@@ -6,5 +6,3 @@ console.log(destination);
 
 const cargo = new Cargo();
 console.log(cargo);
-
-console.log('hello')
